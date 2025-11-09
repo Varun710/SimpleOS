@@ -18,6 +18,10 @@ The project demonstrates rapid development capabilities when AI tools like Curso
 
 ---
 
+## Demo video
+
+https://github.com/user-attachments/assets/d9ed4567-77aa-4bb5-9c63-c0f54a1e7eb5
+
 ## ✨ Features
 
 ### 🎨 Core OS Features
